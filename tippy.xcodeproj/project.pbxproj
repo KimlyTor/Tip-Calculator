@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		28D493F02347245D00CC7E75 /* tippy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tippy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		28D493F02347245D00CC7E75 /* Tip Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tip Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		28D493F32347245D00CC7E75 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28D493F52347245E00CC7E75 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		28D493F72347245E00CC7E75 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 		28D493F12347245D00CC7E75 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				28D493F02347245D00CC7E75 /* tippy.app */,
+				28D493F02347245D00CC7E75 /* Tip Calculator.app */,
 				28D494062347245F00CC7E75 /* tippyTests.xctest */,
 				28D494112347246000CC7E75 /* tippyUITests.xctest */,
 			);
@@ -145,7 +145,7 @@
 			);
 			name = tippy;
 			productName = tippy;
-			productReference = 28D493F02347245D00CC7E75 /* tippy.app */;
+			productReference = 28D493F02347245D00CC7E75 /* Tip Calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 		28D494052347245F00CC7E75 /* tippyTests */ = {
@@ -441,7 +441,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.codepath.tippy;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Tip Calculator";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -458,7 +458,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.codepath.tippy;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Tip Calculator";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
