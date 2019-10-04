@@ -32,7 +32,7 @@ class ViewController: UIViewController {
     
     @IBAction func calculateTip(_ sender: Any) {
         //Get the bill amount
-        let bill = Double(billField.text!) ?? 0 // if it's not                                         //valid then it's 0
+        let bill = Double(billField.text!) ?? 0 // if it's not valid then it's 0
         
         //Calculate the tip and total
         let tipPercentages = [0.15, 0.18, 0.2]
