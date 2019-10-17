@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 2. Debugging the code was challenging. Without the video walkthrough I wouldn't know where to start.
 
-3. I push without commit from the local machine so when I pull from Github, all the codes were overridden with the un-updated files. I had to rewrite the code from scratch. I learned a lesson to keep extra backup files.
+3. I commit without push from the local machine so when I pull from Github, all the codes were overridden with the un-updated files. I had to rewrite the code from scratch. I learned a lesson to keep extra backup files.
 
 ## License
 
